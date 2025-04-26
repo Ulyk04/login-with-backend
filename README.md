@@ -36,30 +36,38 @@ node server.js
 
 # 🛠 Technologies Used
 
-Frontend: React, React Router, Axios, Tailwind CSS / MUI (if used)
+-**Frontend**: React, React Router, Axios, Tailwind CSS / MUI (if used)
 
-Backend: Node.js, Express (or any other backend framework)
+-**Backend**: Node.js, Express (or any other backend framework)
 
-Database: MongoDB / PostgreSQL (optional)
+-**Database**: MongoDB / PostgreSQL (optional)
 
-Other: JWT Authentication, API Integration, Context API, etc.
+-**Other**: API Integration, Context API, etc.
 
 # ✨ Features
 
-Functional and responsive frontend interface.
+-Functional and responsive frontend interface.
 
-REST API for backend communication.
+-REST API for backend communication.
 
-Secure authentication and authorization (if implemented).
+-Secure authentication and authorization (if implemented).
 
-CRUD operations for data management.
+-CRUD operations for data management.
 
-Project structure that can be easily scaled.
+-Project structure that can be easily scaled.
 
 # 📚 Useful Links
 
-React Documentation
+-React Documentation
 
-Node.js Documentation
+-Node.js Documentation
 
-Express Documentation
+-Express Documentation
+
+## 📧 Contact
+
+# If you have any questions, feel free to reach out:
+- Name: Ulykpan
+- Email: ulykpankajar1@gmail.com
+- GitHub: Ulyk04
+
