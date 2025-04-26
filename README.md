@@ -5,19 +5,7 @@ It was created for learning, practice, and building real-world web development s
 
 ---
 
-## 📁 Project Structure
 
-root/ │ 
-  ├── client-side/ # React Frontend 
-  ├── public/  
-      ├── src/ 
-          │ └── package.json │ 
-  ├── server-side/ # Backend 
-      ├── src/ 
-          │ └── package.json 
-
-
----
 
 ## 🚀 How to Run the Project
 
