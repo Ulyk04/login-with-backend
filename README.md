@@ -54,7 +54,7 @@ node server.js
 
 # Screenshots from project
 ![Screen](https://raw.githubusercontent.com/Ulyk04/login-with-backend/main/images/screen1.png)
-(https://raw.githubusercontent.com/Ulyk04/login-with-backend/main/images/screen2.png)
+![Screen](https://raw.githubusercontent.com/Ulyk04/login-with-backend/main/images/screen2.png)
 
 ## 📧 Contact
 
